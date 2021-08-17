@@ -1,0 +1,27 @@
+/* 
+  minha paleta :
+
+  Cor de fundo : rgb(37, 37, 37);
+  
+  Destaque: rgb(36, 179, 23);
+
+  Detalhes: rgb(221, 221, 221);
+
+*/
+
+body {
+  background-color: rgb(37, 37, 37);
+}
+
+.H-container {
+ 
+  width: 1000px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
